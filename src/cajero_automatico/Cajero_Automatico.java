@@ -1,5 +1,6 @@
 /*
 Autor: Wilson Velasquez
+Universidad Mariano Galvez de Guatemala
 Hacer un programa que simule un cajero automatico con saldo inicial de 1000
 1. ingresar dinero a la cuenta
 2.retirar dinero de la cuenta
